@@ -1,6 +1,6 @@
 # **datagovindia**
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/addypy/datagovindia/blob/master/LICENSE.txt) [![Downloads](https://static.pepy.tech/personalized-badge/datagovindia?period=total&units=international_system&left_color=grey&right_color=limegreen&left_text=Downloads)](https://pepy.tech/project/datagovindia)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Liladhar-s/Api_Gov/blob/master/LICENSE.txt) [![Downloads](https://static.pepy.tech/personalized-badge/datagovindia?period=total&units=international_system&left_color=grey&right_color=limegreen&left_text=Downloads)](https://pepy.tech/project/datagovindia)
 
 
 ### A Python API-wrapper for Government of India’s [Open Government Data OGD platform](https://data.gov.in/)
@@ -30,7 +30,7 @@ pip install -U datagovindia
 -------
 > - Clone the Git-Repository
 ```sh
-git clone https://github.com/addypy/datagovindia
+git clone https://github.com/Liladhar-s/Api_Gov
 
 python setup.py install
 
@@ -2600,7 +2600,7 @@ datagovin.get_data("dad7a738fd3b437dad31e1f844e9a575",num_results='all')
 >   
 >   > [pypi.org/project/datagovindia/](https://pypi.org/project/datagovindia/)
 >
->   > [github.com/addypy/datagovindia](https://github.com/addypy/datagovindia)
+>   > [github.com/Liladhar-s/Api_Gov](https://github.com/Liladhar-s/Api_Gov)
 >   
 > - For the R/CRAN package, visit -
 >   
